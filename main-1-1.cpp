@@ -3,6 +3,8 @@
 #include "function-1-1.cpp"
 using namespace std;
 
+extern void string_2d_copy(string first[][2], string second[][2], int n);
+
 int main() {
 
 string first[3][2] = {{"New York","Los Angeles"},
