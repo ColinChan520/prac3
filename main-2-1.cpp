@@ -3,7 +3,7 @@
 #include "function-2-1.cpp"
 using namespace std;
 
-extern void multiples_of_seven(int , int );
+extern void multiples_of_seven(int* , int );
 
 int main()
 {
