@@ -4,7 +4,7 @@
 #include "function-1-4.cpp"
 using namespace std;
 
-extern void copy_doubles(double *old_array,double *new_array,int length);
+extern void copy_doubles(double ,double ,int );
 
 int main(){
     double arr1[] = {10, 20, 40, 40, 50};

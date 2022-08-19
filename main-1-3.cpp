@@ -2,7 +2,7 @@
 #include "function-1-3.cpp"
 using namespace std;
 
-extern void copy_integers(int old_array[], int new_array[], int length);
+extern void copy_integers(int [], int [], int );
 
 int main() {
 

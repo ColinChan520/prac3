@@ -3,7 +3,7 @@
 #include<climits>
 using namespace std;
 
-extern int max_sub_sum(int *num, int lenght);
+extern int max_sub_sum(int, int);
 
 int main()
 {
